@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf576a1-9a85-41d5-b1ad-7a3b0bf59cf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ornek47.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek50.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek60.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek63.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek69.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek76.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ornek79.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +37,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.ornek47">
+  <component name="RunManager" selected="Python.ornek76">
     <configuration name="ornek1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AlgoritmaCalismalari" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -441,6 +437,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ornek50" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek50.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ornek6" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AlgoritmaCalismalari" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -462,6 +479,69 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="ornek60" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek60.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek63" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek63.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek69" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek69.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ornek7" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="AlgoritmaCalismalari" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -475,6 +555,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek76" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek76.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ornek79" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="AlgoritmaCalismalari" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ornek79.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -548,45 +670,45 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="531" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586365741268" />
-    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1586467777238">
+    <state width="757" height="210" key="GridCell.Tab.0.bottom" timestamp="1586896346948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586467777238" />
-    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1586467777238">
+    <state width="757" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586896346948" />
+    <state width="757" height="210" key="GridCell.Tab.0.center" timestamp="1586896346948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586467777238" />
-    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1586467777238">
+    <state width="757" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586896346948" />
+    <state width="757" height="210" key="GridCell.Tab.0.left" timestamp="1586896346948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586467777238" />
-    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1586467777238">
+    <state width="757" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586896346948" />
+    <state width="757" height="210" key="GridCell.Tab.0.right" timestamp="1586896346948">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586467777238" />
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1586467777235">
+    <state width="757" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586896346948" />
+    <state width="757" height="261" key="GridCell.Tab.1.bottom" timestamp="1586892490481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586467777235" />
-    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1586467777235">
+    <state width="757" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586892490481" />
+    <state width="757" height="261" key="GridCell.Tab.1.center" timestamp="1586892490481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586467777235" />
-    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1586467777235">
+    <state width="757" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586892490481" />
+    <state width="757" height="261" key="GridCell.Tab.1.left" timestamp="1586892490481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586467777235" />
-    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1586467777235">
+    <state width="757" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586892490481" />
+    <state width="757" height="261" key="GridCell.Tab.1.right" timestamp="1586892490481">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586467777235" />
+    <state width="757" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586892490481" />
     <state x="279" y="57" key="SettingsEditor" timestamp="1586264845342">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586264845342" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586443847788">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1586890323997">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586443847788" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1586890323997" />
   </component>
 </project>
